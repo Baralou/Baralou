@@ -1,5 +1,5 @@
  <!--Introdution-->
-<h1 align="center"><img src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/> Hey, Gabi here!<img src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/></h1> 
+<h1 align="center"><img width='150' src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/> Hey, Gabi here!<img  width='150' src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/></h1> 
 
  <img align='right' src="https://static.wikia.nocookie.net/all-fiction-battles/images/7/7f/The_Penitent_One_sprite1.gif/revision/latest/top-crop/width/360/height/360?cb=20210315160600" width="140"></h2>
 </br>
@@ -9,15 +9,18 @@
 Come to Brazil </br>
 ⁕__Learning__: `Java`, `Python`,`Excel`!
 
+<br>
 <p>
 	<img align='left' src="https://static.wikia.nocookie.net/b1f1ccc5-fe57-4c59-8312-aa6a0442f194/scale-to-width/370" width='100'>
  	<img align='right' src="https://64.media.tumblr.com/5720c0b3f55bbdbb3b9c7753f04fb790/tumblr_moymevmI0v1rwai13o1_500.gif" width='100'>
 </p>
+</br>
 
+ 
+ 
  
  
 <div align="center"><h2>👾GitHub Stats👾</h2></div>
-
 
  <div align='center'> 
      <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="100em"/></a> 
