@@ -24,35 +24,39 @@ Come to Brazil </br>
 	
 
  	
-<div align="left"><h2>⚜ Language and tools</h2></div>
-    
-   <h3>Languages</h3> 
-	 
-   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center"><h2>🐱‍💻 Language and tools 🐱‍💻</h2></div>
+<div align="center"><h3>🐱‍👤Programming and markup languages🐱‍👤</h3></div>
 
-  <h3>IDEs/Code editors</h3>
-  
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  </br>
-  <h3>Softwares and tools</h3>
-  
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-  </br>
-  <h3>Operational System</h3>
-  
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  </br>
-</details>
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>    
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    
+</p>
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <img width="60" src='https://i.kym-cdn.com/photos/images/newsfeed/000/923/084/055'/>
+</p>
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    <img width="60" src='https://i.kym-cdn.com/photos/images/newsfeed/000/923/084/055'/>
+</p>
+
+### 💻 Software and tools
+
+<p>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
 
  
 
