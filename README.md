@@ -22,10 +22,11 @@ Come to Brazil </br>
  
 <div align="center"><h2>👾GitHub Stats👾</h2></div>
 
+
  <div align='center'> 
-     <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="100em"/></a> 
-     <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="100em"/></a> 
-     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a>
+	<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a></br>
+     <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="140em"/></a> 
+     <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="140em"/></a>
  
 
 	
