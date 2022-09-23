@@ -75,7 +75,7 @@ Come to Brazil </br>
  
  
  
- <div align="center"><h2>🌙 Thaaaanks! 🌙</h2></div>
+ <div align="center"><h2>⭐ Thaaaanks! ⭐</h2></div>
  
 
  
