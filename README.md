@@ -1,39 +1,37 @@
  <!--Introdution-->
 <h1 align="center"><img src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/> Hey, Gabi here!<img src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/></h1> 
 
-
-<img align='left' src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/31/Enchanting_Table.gif/revision/latest?cb=20220222115558" width='100'></h2>
+ <img align='right' src="https://static.wikia.nocookie.net/all-fiction-battles/images/7/7f/The_Penitent_One_sprite1.gif/revision/latest/top-crop/width/360/height/360?cb=20210315160600" width="140"></h2>
+</br>
+ 
+<img align='left' src="https://64.media.tumblr.com/23c08e0f28bf5ae9ea93f0ead4f3b80b/tumblr_oos7umjMh81roe0j1o1_500.gif" width='100'></h2>
 </br> Alooo, my name is Gabrielle and I recently joined Computer Science College! I'm on my way to becoming a Full Stack Developer. :)
 Come to Brazil </br>
 ⁕__Learning__: `Java`, `Python`,`Excel`!
+
+
+
  
- <img align='right' src="https://static.wikia.nocookie.net/all-fiction-battles/images/7/7f/The_Penitent_One_sprite1.gif/revision/latest/top-crop/width/360/height/360?cb=20210315160600" width="300"></h2>
-</br>
+ 
+<div align="center"><h2>👾GitHub Stats👾</h2></div>
+
+
+ <div align='center'> 
+     <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="150em"/></a> <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="150em"/></a> 
+     <div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a>
  
 
-  <!--lista-->
-<details> 
-  <summary>👾GitHub Stats👾</summary>
-  <br/>
-    <div align="center">
-     <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="160em"/></a>
-     <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="160em"/></a>
-       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a>
-
-     </div>
-</details>
-  <!--fim da lista-->
 	
 
  	
-<details> 
-  <summary> ⚜ Language and tools </summary> 
-   <h3>Languages</h3>
+<div align="left"><h2>⚜ Language and tools</h2></div>
+    
+   <h3>Languages</h3> 
 	 
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-   </br>
+
   <h3>IDEs/Code editors</h3>
   
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -63,7 +61,7 @@ Come to Brazil </br>
  
  <div align="center"><h2>🌙 Thaaaanks! 🌙</h2></div>
  <p align="center">
-<a href="https://github.com/Baralou/Baralou/blob/main/Q7qj.gif" target="blank"><img align="center" src="https://github.com/Baralou/Baralou/blob/main/Q7qj.gif" alt="Rain gif" height="70%" width="70%" /></a>
+<img align="center" src="https://c.tenor.com/hCmnXBNRSEIAAAAi/jjba-jojo.gif" alt="Rain gif" height="70%" width="50%" /></a>
 </p>
 
  
