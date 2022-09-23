@@ -9,7 +9,10 @@
 Come to Brazil </br>
 ⁕__Learning__: `Java`, `Python`,`Excel`!
 
-
+<p>
+	<img align='left' src="https://static.wikia.nocookie.net/b1f1ccc5-fe57-4c59-8312-aa6a0442f194/scale-to-width/370" width='100'>
+ 	<img align='right' src="https://64.media.tumblr.com/5720c0b3f55bbdbb3b9c7753f04fb790/tumblr_moymevmI0v1rwai13o1_500.gif" width='100'>
+</p>
 
  
  
@@ -25,7 +28,7 @@ Come to Brazil </br>
 	
 
  	
-<div align="center"><h2>🐱‍💻 Language and tools 🐱‍💻</h2></div>
+<div align="left"><h2>🐱‍💻 Language and tools 🐱‍💻</h2></div>
 <div align="left"><h3>🐱‍👤Programming and markup languages🐱‍👤</h3></div>
 
 <p align='left'>
@@ -69,10 +72,10 @@ Come to Brazil </br>
  
  
  <div align="center"><h2>🌙 Thaaaanks! 🌙</h2></div>
- <p align="center">
-<img align="center" src="https://c.tenor.com/hCmnXBNRSEIAAAAi/jjba-jojo.gif" alt="Rain gif" height="70%" width="50%" /></a>
-</p>
-
  
 
+ 
+  <img align='left' src="https://i.imgur.com/j3G3Y1U.gif" width='300'>
+  <img align='right' src="https://github.com/Baralou/Baralou/blob/main/ezgif.com-gif-maker.gif" width='400'>
+ 
  
