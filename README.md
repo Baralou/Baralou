@@ -1,10 +1,10 @@
  <!--Introdution-->
 <h1 align="center"><img width='150' src="https://github.com/Baralou/Baralou/blob/main/bixin%202.gif"/> Hey, Gabi here!<img  width='150' src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/></h1> 
 
- <img align='right' src="https://static.wikia.nocookie.net/all-fiction-battles/images/7/7f/The_Penitent_One_sprite1.gif/revision/latest/top-crop/width/360/height/360?cb=20210315160600" width="140"></h2>
+ <img align='right' src="https://static.wikia.nocookie.net/all-fiction-battles/images/7/7f/The_Penitent_One_sprite1.gif/revision/latest/top-crop/width/360/height/360?cb=20210315160600" width="140"></h2></br>
 </br>
  
-<img align='left' src="https://64.media.tumblr.com/23c08e0f28bf5ae9ea93f0ead4f3b80b/tumblr_oos7umjMh81roe0j1o1_500.gif" width='100'></h2>
+<img align='left' src="https://64.media.tumblr.com/23c08e0f28bf5ae9ea93f0ead4f3b80b/tumblr_oos7umjMh81roe0j1o1_500.gif" width='100'></h2></br>
 </br> Alooo, my name is Gabrielle and I recently joined Computer Science College! I'm on my way to becoming a Full Stack Developer. :)
 Come to Brazil </br>
 ⁕__Learning__: `Java`, `Python`,`Excel`!
