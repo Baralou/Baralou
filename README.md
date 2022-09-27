@@ -9,10 +9,10 @@
 Come to Brazil </br>
 ⁕__Learning__: `Java`, `Python`,`Excel`!
 
-<br>
+
 <p>
-	<img align='left' src="https://static.wikia.nocookie.net/b1f1ccc5-fe57-4c59-8312-aa6a0442f194/scale-to-width/370" width='100'>
- 	<img align='right' src="https://64.media.tumblr.com/5720c0b3f55bbdbb3b9c7753f04fb790/tumblr_moymevmI0v1rwai13o1_500.gif" width='100'>
+	<img align='left' src="https://static.wikia.nocookie.net/b1f1ccc5-fe57-4c59-8312-aa6a0442f194/scale-to-width/370" width='100'></br>
+ 	<img align='right' src="https://64.media.tumblr.com/5720c0b3f55bbdbb3b9c7753f04fb790/tumblr_moymevmI0v1rwai13o1_500.gif" width='100'></br>
 </p>
 </br>
 
