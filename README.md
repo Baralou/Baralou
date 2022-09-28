@@ -38,18 +38,11 @@ _I'm currently learning `Java`, `Python` , `Git`, `Intellij IDEA` and `VScode`._
 
 <div align="left"><h4>🧰 Frameworks and libraries</h4></div>
 
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=73&duration=4953&pause=984&color=690C5E&background=FFFFFF00&center=true&vCenter=true&width=514&height=68&lines=working+on+it....;-no+data-" alt="Typing SVG" /></a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=28&pause=1000&color=6D008A&width=435&lines=w+o+r+k+i+n+g++_+o+n+_+i+t+.++.++.+;-++n+o+_+d+a+t+a++-)](https://git.io/typing-svg)
 
 <div align="left"><h4>🗄️ Databases and cloud hosting</h4></div>
 
-<p>
-    <p  align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=73&duration=4953&pause=984&color=690C5E&background=FFFFFF00&center=true&vCenter=true&width=514&height=68&lines=working+on+it....;-no+data-" alt="Typing SVG" /></a>
-</p>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&size=28&pause=1000&color=6D008A&width=435&lines=w+o+r+k+i+n+g++_+o+n+_+i+t+.++.++.+;-++n+o+_+d+a+t+a++-)](https://git.io/typing-svg)
 
  <div align="center"><h2>👾GitHub Stats👾</h2></div>
 
