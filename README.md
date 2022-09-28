@@ -47,11 +47,11 @@ _I'm currently learning `Java`, `Python` , `Git`, `Intellij IDEA` and `VScode`._
  <div align="center"><h2>👾GitHub Stats👾</h2></div>
 
 
- <div align='center'> 
-	<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a></br>
-     <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="110em"/></a> 
-     <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="110em"/></a>
- 
+<div align=center>
+<img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="110em"/></a>
+<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a>
+  <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="110em"/></a>
+ </div>
 
  
  
