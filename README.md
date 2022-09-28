@@ -1,13 +1,13 @@
  <!--Introdution-->
 <h1 align="center"><img width='150' src="https://github.com/Baralou/Baralou/blob/main/bixin%202.gif"/> Hey, Gabi here!<img  width='150' src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/></h1> 
 
- <img align='right' src="https://static.wikia.nocookie.net/all-fiction-battles/images/7/7f/The_Penitent_One_sprite1.gif/revision/latest/top-crop/width/360/height/360?cb=20210315160600" width="140"></h2></br>
-</br>
- 
-<img align='left' src="https://64.media.tumblr.com/23c08e0f28bf5ae9ea93f0ead4f3b80b/tumblr_oos7umjMh81roe0j1o1_500.gif" width='100'></h2></br>
-</br> Alooo, my name is Gabrielle and I recently joined Computer Science College! I'm on my way to becoming a Full Stack Developer. :)
-Come to Brazil </br>
-⁕__Learning__: `Java`, `Python`,`Excel`!
+
+ Hi, my name is Gabrielle and welcome to my GitHub. I'm a Brazilian who just joined the Computer Science College and I'm on my way to becoming a full stack developer.  
+
+_I'm currently learning `Java`, `Python` , `Git`, `Intellij IDEA` and `VScode`._  
+
+
+
 
 
 <p>
@@ -24,23 +24,25 @@ Come to Brazil </br>
 
 
  <div align='center'> 
-	<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a></br>
-     <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="140em"/></a> 
-     <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="140em"/></a>
+	<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a></br>
+     <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="110em"/></a> 
+     <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="110em"/></a>
  
 
 	
 
  	
-<div align="left"><h2>🐱‍💻 Language and tools 🐱‍💻</h2></div>
-<div align="left"><h3>🐱‍👤Programming and markup languages🐱‍👤</h3></div>
+<div align="left"><h1>🐱‍💻 Language and tools 🐱‍💻</h1></div>  
+
+<div align="left"><h4>🐱‍👤Programming and markup languages</h4></div>  
 
 <p align='left'>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>    
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>  
+
    
-<div align="left"><h3>💻 Software and tools</h3></div>
+<div align="left"><h4>💻 Software and tools</h4></div>
 
 <p align='left'>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -55,17 +57,17 @@ Come to Brazil </br>
 
 </p>
 
-<div align="left"><h3>🧰 Frameworks and libraries</h3></div>
+<div align="left"><h4>🧰 Frameworks and libraries</h4></div>
 
 <p align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=73&duration=4953&pause=984&color=690C5E&background=FFFFFF00&center=true&vCenter=true&width=514&height=68&lines=working+on+it....;-no+data-" alt="Typing SVG" /></a>
 </p>
 
 
-<div align="left"><h3>🗄️ Databases and cloud hosting</h3></div>
+<div align="left"><h4>🗄️ Databases and cloud hosting</h4></div>
 
 <p>
-    <p align="left">
+    <p  align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=73&duration=4953&pause=984&color=690C5E&background=FFFFFF00&center=true&vCenter=true&width=514&height=68&lines=working+on+it....;-no+data-" alt="Typing SVG" /></a>
 </p>
 </p>
