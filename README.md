@@ -2,37 +2,16 @@
 <h1 align="center"><img width='150' src="https://github.com/Baralou/Baralou/blob/main/bixin%202.gif"/> Hey, Gabi here!<img  width='150' src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/></h1> 
 
 
- Hi, my name is Gabrielle and welcome to my GitHub. I'm a Brazilian who just joined the Computer Science College and I'm on my way to becoming a full stack developer.  
+ Hi, my name is Gabrielle and welcome to my GitHub. I'm a Brazilian who just joined the Computer Science faculty and I'm on my way to becoming a full stack developer.  
 
 _I'm currently learning `Java`, `Python` , `Git`, `Intellij IDEA` and `VScode`._  
 
-
-
-
-
 <p>
 	<img align='left' src="https://static.wikia.nocookie.net/b1f1ccc5-fe57-4c59-8312-aa6a0442f194/scale-to-width/370" width='100'></br>
- 	<img align='right' src="https://64.media.tumblr.com/5720c0b3f55bbdbb3b9c7753f04fb790/tumblr_moymevmI0v1rwai13o1_500.gif" width='100'></br>
-</p>
+ 	<img align='right' src="https://64.media.tumblr.com/5720c0b3f55bbdbb3b9c7753f04fb790/tumblr_moymevmI0v1rwai13o1_500.gif" width='100'>
+</p>  
 </br>
-
- 
- 
- 
- 
-<div align="center"><h2>👾GitHub Stats👾</h2></div>
-
-
- <div align='center'> 
-	<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a></br>
-     <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="110em"/></a> 
-     <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="110em"/></a>
- 
-
-	
-
- 	
-<div align="left"><h1>🐱‍💻 Language and tools 🐱‍💻</h1></div>  
+<div align="center"><h1>🐱‍💻 Language and tools 🐱‍💻</h1></div>  
 
 <div align="left"><h4>🐱‍👤Programming and markup languages</h4></div>  
 
@@ -72,6 +51,13 @@ _I'm currently learning `Java`, `Python` , `Git`, `Intellij IDEA` and `VScode`._
 </p>
 </p>
 
+ <div align="center"><h2>👾GitHub Stats👾</h2></div>
+
+
+ <div align='center'> 
+	<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baralou&layout=compact&langs_count=7&text_color=ffffff&theme=radical"/></a></br>
+     <img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=baralou&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" height="110em"/></a> 
+     <img alt="DenverCoder1's Github Stats" src="https://streak-stats.demolab.com?user=Baralou&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" height="110em"/></a>
  
 
  
