@@ -2,7 +2,7 @@
 <h1 align="center"><img width='150' src="https://github.com/Baralou/Baralou/blob/main/bixin%202.gif"/> Hey, Gabi here!<img  width='150' src="https://github.com/Baralou/Baralou/blob/main/da85c3r-1df833f0-f4ce-4ba0-8576-8541b3470697.gif"/></h1> 
 
 
- Hi, my name is Gabrielle and welcome to my GitHub. I'm a Brazilian who just joined the Computer Science faculty and I'm on my way to becoming a full stack developer.  
+ Hi, my name is Gabrielle and welcome to my GitHub. I'm a Brazilian who just joined the Computer Science college and I'm on my way to becoming a full stack developer.  
 
 _I'm currently learning `Java`, `Python` , `Git`, `Intellij IDEA` and `VScode`._  
 
